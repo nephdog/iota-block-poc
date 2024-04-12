@@ -53,5 +53,4 @@ You can use the following command to run the PoC:
 
 ```bash
 cargo cargo run --release --all-features  main
-`
 ```
