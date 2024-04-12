@@ -24,7 +24,6 @@ address.json
 
 # Miscellaneous
 *.log
-.env
 *.stronghold
 !**/tests/**/**.stronghold
 .DS_Store
