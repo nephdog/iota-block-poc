@@ -1,6 +1,6 @@
 # IOTA Block PoC
 
-This is a Rust-based proof of concept demonstrating how to connect to a rust node, add a tagged data block, and retrieve added data block using the [IOTA SDK](https://github.com/iotaledger/iota-sdk)
+This is a Rust-based proof of concept demonstrating how to connect to a rust node, add a tagged data block, and retrieve added data block, using the [IOTA SDK](https://github.com/iotaledger/iota-sdk)
 
 ## Requirements
 
