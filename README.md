@@ -46,3 +46,12 @@ brew install cmake openssl@1.1
 
 You can install `cmake`, `clang`, and `openssl` with your distro's package manager or download them from their websites.
 On Debian and Ubuntu, you will also need the `build-essential` and `libudev-dev` packages.
+
+## Execution
+
+You can use the following command to run the PoC:
+
+```bash
+cargo cargo run --release --all-features  main
+`
+```
