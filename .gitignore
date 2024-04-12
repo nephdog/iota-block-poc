@@ -1,0 +1,35 @@
+
+# Build files
+**/target
+*.pyc
+**/*.rs.bk
+
+# IDE files
+.vscode
+.idea
+*.ipynb
+
+# Storages/databases
+/storage
+test-storage
+wallet/test-storage
+**/*walletdb
+backup
+
+# JSON files
+address.json
+*addresses.json
+*prepared_transaction.json
+*signed_transaction.json
+
+# Miscellaneous
+*.log
+.env
+*.stronghold
+!**/tests/**/**.stronghold
+.DS_Store
+book
+.venv*
+
+# Temporary documentation
+docs
